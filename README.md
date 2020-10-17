@@ -20,6 +20,26 @@ I am a passionate software developer from Taiwan 🇹🇼
 
 </p>
 
+### 📚 Books and papers
+- I'm currently reading
+  - [Designing Data-Intensive Application](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+  - [High Performance MySQL](https://www.amazon.com/High-Performance-MySQL-Optimization-Replication/dp/1449314287)
+  - [The Art of Readable Code](https://www.amazon.com/Art-Readable-Code-Practical-Techniques/dp/0596802293)
+  - [Database Internals](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems-ebook/dp/B07XW76VHZ)
+- I've read and loved
+  - [The Google File System](https://pdos.csail.mit.edu/6.824/papers/gfs.pdf)
+  - [MapReduce: Simplified Data Processing on Large Clusters](https://pdos.csail.mit.edu/6.824/papers/mapreduce.pdf)
+  - [Bigtable: A Distributed Storage System for Structured Data](http://people.csail.mit.edu/tdanford/6830papers/chang-bigtable.pdf)
+  - [In Search of an Understandable Consensus Algorithm](https://pdos.csail.mit.edu/6.824/papers/raft-extended.pdf)
+  - [Database Reliability Engineering](https://www.amazon.com/Database-Reliability-Engineering-Designing-Operating/dp/1491925949)
+- In my wish list
+  - [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
+  - [Spanner: Google’s Globally-Distributed Database](https://pdos.csail.mit.edu/6.824/papers/spanner.pdf)
+  - [ZooKeeper: Wait-free coordination for Internet-scale systems](https://pdos.csail.mit.edu/6.824/papers/zookeeper.pdf)
+  - [HTTP: The Definitive Guide](https://www.amazon.com/HTTP-Definitive-Guide-Guides/dp/1565925092)
+  - [Internetworking with TCP/IP Volume One](https://www.amazon.com/Internetworking-TCP-IP-One-6th/dp/013608530X)
+  - [Computer Science Distilled](https://www.amazon.com/-/es/Wladston-Ferreira-Filho/dp/0997316020)
+
 ### 📞 Contact me
 <p align = "left">
   
@@ -28,10 +48,9 @@ I am a passionate software developer from Taiwan 🇹🇼
 
 </p>
 
-
 ### 📈 GitHub status 
 [![Visits Badge](https://badges.pufler.dev/visits/thhuang/thhuang?style=for-the-badge&color=blue)](https://github.com/thhuang/thhuang)<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thhuang&show_icons=true&include_all_commits=true&theme=radical" alt="TH's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thhuang&show_icons=true&include_all_commits=true&theme=radical" alt="TH's github stats"/>
 
 [ama]: https://github.com/thhuang/thhuang/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
 [github]: https://github.com/thhuang
