@@ -33,6 +33,7 @@ I am a passionate software developer from Taiwan 🇹🇼
   - [In Search of an Understandable Consensus Algorithm](https://pdos.csail.mit.edu/6.824/papers/raft-extended.pdf)
   - [Database Reliability Engineering](https://www.amazon.com/Database-Reliability-Engineering-Designing-Operating/dp/1491925949)
 - In my wish list
+  - [The Tangled Web](https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886)
   - [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
   - [Spanner: Google’s Globally-Distributed Database](https://pdos.csail.mit.edu/6.824/papers/spanner.pdf)
   - [ZooKeeper: Wait-free coordination for Internet-scale systems](https://pdos.csail.mit.edu/6.824/papers/zookeeper.pdf)
@@ -49,7 +50,6 @@ I am a passionate software developer from Taiwan 🇹🇼
 </p>
 
 ### 📈 GitHub status 
-[![Visits Badge](https://badges.pufler.dev/visits/thhuang/thhuang?style=for-the-badge&color=blue)](https://github.com/thhuang/thhuang)<br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thhuang&show_icons=true&include_all_commits=true&theme=radical" alt="TH's github stats"/>
 
 [ama]: https://github.com/thhuang/thhuang/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
