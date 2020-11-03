@@ -1,6 +1,6 @@
 ## Hello! I'm TH ✨
 I am a passionate software developer from Taiwan 🇹🇼
-- 👨🏻‍💻 Currently working at [17LIVIT](https://www.m17.asia/en) as a [Go][golang] backend engineer building backend service for [Android][17android], [iOS][17ios], and [web][17web]
+- 👨🏻‍💻 Currently working at [17LIVE](https://www.m17.asia/en) as a [Go][golang] backend engineer building backend service for [Android][17android], [iOS][17ios], and [web][17web]
 - 🏗 Developing several cross-platform applications with [the Flutter SDK][flutter] and [Go][golang]
 - 🤓 Enthusiastic about competitive programming as a newbie
 - 🎶 Listening to the best classical music with [NurMusik][nurmusik]
