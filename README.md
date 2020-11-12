@@ -24,7 +24,6 @@ I am a passionate software developer from Taiwan 🇹🇼
 - I'm currently reading
   - [Designing Data-Intensive Application](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
   - [High Performance MySQL](https://www.amazon.com/High-Performance-MySQL-Optimization-Replication/dp/1449314287)
-  - [The Art of Readable Code](https://www.amazon.com/Art-Readable-Code-Practical-Techniques/dp/0596802293)
   - [Database Internals](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems-ebook/dp/B07XW76VHZ)
 - I've read and loved
   - [The Google File System](https://pdos.csail.mit.edu/6.824/papers/gfs.pdf)
@@ -32,6 +31,7 @@ I am a passionate software developer from Taiwan 🇹🇼
   - [Bigtable: A Distributed Storage System for Structured Data](http://people.csail.mit.edu/tdanford/6830papers/chang-bigtable.pdf)
   - [In Search of an Understandable Consensus Algorithm](https://pdos.csail.mit.edu/6.824/papers/raft-extended.pdf)
   - [Database Reliability Engineering](https://www.amazon.com/Database-Reliability-Engineering-Designing-Operating/dp/1491925949)
+  - [The Art of Readable Code](https://www.amazon.com/Art-Readable-Code-Practical-Techniques/dp/0596802293)
 - In my wish list
   - [The Tangled Web](https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886)
   - [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
