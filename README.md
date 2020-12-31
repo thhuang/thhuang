@@ -8,16 +8,17 @@ I am a passionate software developer from Taiwan 🇹🇼
 - 💬 Feel free to ask me about anything [here][ama] 😊
 
 ### 😎 Stuff I'm good at
+<!--- Ref: https://github.com/Ileriayo/markdown-badges -->
 <p align="left">
   
   [<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>][golang]
-  [<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>][python]
   [<img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>][dart]
+  [<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>][python]
   [<img src="https://img.shields.io/badge/redis-%23DA2B20.svg?&style=for-the-badge&logo=redis&logoColor=white"/>][redis]
   [<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>][mongodb]
   [<img src="https://img.shields.io/badge/mysql-%2300000f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>][mysql]
-  [<img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>][flask]
   [<img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>][flutter]
+  [<img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>][flask]
   [<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>][docker]
 
 </p>
