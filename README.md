@@ -38,11 +38,6 @@ I am a passionate software developer from Taiwan 🇹🇼
   - [Elements of Programming Interviews: The Insiders' Guide](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
   - [Designing Data-Intensive Application](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
   - [High Performance MySQL](https://www.amazon.com/High-Performance-MySQL-Optimization-Replication/dp/1449314287)
-  - [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational-ebook/dp/B08C9V1FC9)
-  - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
-  - [Using Asyncio in Python: Understanding Python's Asynchronous Programming Features](https://www.amazon.com/Using-Asyncio-Python-Understanding-Asynchronous/dp/1492075337)
-  - [Algorithmic Trading: A Practitioner's Guide](https://www.amazon.com/Algorithmic-Trading-Practitioners-Jeffrey-Bacidore/dp/0578715236)
-  - [Web Application Security: Exploitation and Countermeasures for Modern Web Applications](https://www.amazon.com/Web-Application-Security-Exploitation-Countermeasures/dp/1492053112)
 - In my wish list
   - [Database Internals](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems-ebook/dp/B07XW76VHZ)
   - [The Tangled Web](https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886)
@@ -53,6 +48,11 @@ I am a passionate software developer from Taiwan 🇹🇼
   - [Internetworking with TCP/IP Volume One](https://www.amazon.com/Internetworking-TCP-IP-One-6th/dp/013608530X)
   - [Computer Science Distilled](https://www.amazon.com/-/es/Wladston-Ferreira-Filho/dp/0997316020)
   - [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149)
+  - [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational-ebook/dp/B08C9V1FC9)
+  - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
+  - [Using Asyncio in Python: Understanding Python's Asynchronous Programming Features](https://www.amazon.com/Using-Asyncio-Python-Understanding-Asynchronous/dp/1492075337)
+  - [Algorithmic Trading: A Practitioner's Guide](https://www.amazon.com/Algorithmic-Trading-Practitioners-Jeffrey-Bacidore/dp/0578715236)
+  - [Web Application Security: Exploitation and Countermeasures for Modern Web Applications](https://www.amazon.com/Web-Application-Security-Exploitation-Countermeasures/dp/1492053112)
 
 ### 📞 Contact me
 <p align = "left">
