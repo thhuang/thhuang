@@ -26,6 +26,7 @@ I am a passionate software developer from Taiwan 🇹🇼
 ### 📚 Books and papers
 - I'm currently reading
   - [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451)
+  - [Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices](https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices-ebook/dp/B085KB31X3)
   - [High Performance Browser Networking: What every web developer should know about networking and web performance](https://www.amazon.com/High-Performance-Browser-Networking-performance/dp/1449344763)
   - [High Performance Python: Practical Performant Programming for Humans](https://www.amazon.com/High-Performance-Python-Performant-Programming/dp/1492055026)
 - I've read and loved
