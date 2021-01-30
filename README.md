@@ -1,7 +1,7 @@
 ## Hello! I'm TH ✨
 I am a passionate software developer from Taiwan 🇹🇼
-- 👨🏻‍💻 Currently working at [Cooby](https://cooby.co/) as a [Python][python] backend engineer
-- 🎓 Previously worked at [17LIVE](https://www.m17.asia/en) as a [Go][golang] backend engineer
+- 👨🏻‍💻 Currently working at [Cooby][cooby] as a [Python][python] backend engineer
+- 🎓 Previously worked at [17LIVE][17web] as a [Go][golang] backend engineer
 - 🏗 Developing several cross-platform applications with [the Flutter SDK][flutter] and [Go][golang]
 - 🤓 Enthusiastic about competitive programming
 - 🎶 Listening to the best classical music with [NurMusik][nurmusik]
@@ -83,3 +83,4 @@ I am a passionate software developer from Taiwan 🇹🇼
 [17android]: https://play.google.com/store/apps/details?id=com.machipopo.media17
 [17ios]: https://apps.apple.com/app/id988259048
 [17web]: https://17.live
+[cooby]: https://cooby.co/
