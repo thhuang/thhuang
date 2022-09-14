@@ -1,7 +1,5 @@
 ## Hello! I'm TH ✨
 
-I am a passionate software developer from Taiwan 🇹🇼
-
 - 🎓 MSCS at Northwestern University
 - 🔍 Currently seeking Summer 2023 Software Engineer Internship
 - 💻 Previously worked at [Cooby][cooby] and [17LIVE][17web] as a [Go][go]/[Python][python] backend engineer
@@ -30,6 +28,7 @@ I am a passionate software developer from Taiwan 🇹🇼
 - I'm currently reading
   - [Database Internals](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems-ebook/dp/B07XW76VHZ)
   - [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451)
+  - [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/gp/product/B078Y98RG8)
 - I've read and loved
   - [Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices](https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices-ebook/dp/B085KB31X3)
   - [Bigtable: A Distributed Storage System for Structured Data](http://people.csail.mit.edu/tdanford/6830papers/chang-bigtable.pdf)
@@ -70,7 +69,7 @@ I am a passionate software developer from Taiwan 🇹🇼
 <p align=center>
   <div align=center>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thhuang&theme=dark&ring=e3bb18&fire=e3bb18&currStreakLabel=e3bb18&border=323232" alt="thhuang-streak-stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thhuang&show_icons=true&count_private=true&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="thhuang-stats" />
+    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=thhuang&show_icons=true&count_private=true&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="thhuang-stats" /> -->
   </div>
 </p>
 
