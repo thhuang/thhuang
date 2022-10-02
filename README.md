@@ -69,7 +69,7 @@
 <p align=center>
   <div align=center>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thhuang&theme=dark&ring=e3bb18&fire=e3bb18&currStreakLabel=e3bb18&border=323232" alt="thhuang-streak-stats" />
-    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=thhuang&show_icons=true&count_private=true&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="thhuang-stats" /> -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thhuang&show_icons=true&count_private=true&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="thhuang-stats" />
   </div>
 </p>
 
