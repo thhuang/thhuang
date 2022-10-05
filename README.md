@@ -1,7 +1,6 @@
 ## Hello! I'm TH ✨
 
 - 🎓 MSCS at Northwestern University
-- 🔍 Currently seeking Summer 2023 Software Engineer Internship
 - 💻 Previously worked at [Cooby][cooby] and [17LIVE][17web] as a [Go][go]/[Python][python] backend engineer
 - 🤓 Enthusiastic about developing all kinds of fun software applications
 - 🎶 Listening to the best classical music with [NurMusik][nurmusik]
