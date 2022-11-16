@@ -27,6 +27,8 @@
 - I'm currently reading
   - [Database Internals](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems-ebook/dp/B07XW76VHZ)
   - [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451)
+  - [Compilers: Principles, Techniques, and Tools](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811)
+  - [Modern Compiler Implementation in C](https://www.amazon.com/Modern-Compiler-Implement-Andrew-Appel/dp/0521607655)
   - [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/gp/product/B078Y98RG8)
 - I've read and loved
   - [Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices](https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices-ebook/dp/B085KB31X3)
@@ -67,8 +69,8 @@
 
 <p align=center>
   <div align=center>
-    <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thhuang&theme=dark&ring=e3bb18&fire=e3bb18&currStreakLabel=e3bb18&border=323232" alt="thhuang-streak-stats" /> -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thhuang&show_icons=true&count_private=true&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="thhuang-stats" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thhuang&theme=dark&ring=e3bb18&fire=e3bb18&currStreakLabel=e3bb18&border=323232" alt="thhuang-streak-stats" />
+    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=thhuang&show_icons=true&count_private=true&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="thhuang-stats" /> -->
   </div>
 </p>
 
