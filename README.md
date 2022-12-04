@@ -67,6 +67,8 @@
 
 ### 📈 GitHub status
 
+![](https://komarev.com/ghpvc/?username=thhuang)
+
 <p align=center>
   <div align=center>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thhuang&theme=dark&ring=e3bb18&fire=e3bb18&currStreakLabel=e3bb18&border=323232" alt="thhuang-streak-stats" />
