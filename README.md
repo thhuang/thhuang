@@ -67,7 +67,7 @@
 
 ### 📈 GitHub status
 
-![](https://komarev.com/ghpvc/?username=thhuang)
+![](https://komarev.com/ghpvc/?username=thhuang&label=Views&style=for-the-badge)
 
 <p align=center>
   <div align=center>
