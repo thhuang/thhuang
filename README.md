@@ -13,6 +13,7 @@
 
   <!--- Ref: https://github.com/Ileriayo/markdown-badges -->
   [<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>][go]
+  [<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>][c++]
   [<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>][python]
   [<img src="https://img.shields.io/badge/redis-%23DA2B20.svg?&style=for-the-badge&logo=redis&logoColor=white"/>][redis]
   [<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>][mongodb]
@@ -83,6 +84,7 @@
 [ama]: https://github.com/thhuang/thhuang/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
 [amr-art]: https://github.com/thhuang/adaptive-mesh-refinement-art
 [aws]: https://aws.amazon.com/
+[c++]: https://en.cppreference.com/w/
 [cooby]: https://cooby.co/
 [flutter]: https://flutter.dev
 [github]: https://github.com/thhuang
