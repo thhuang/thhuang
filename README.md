@@ -72,14 +72,17 @@
 
 <p align=center>
   <div align=center>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thhuang&theme=nord_dark&exclude=HTML,CSS,SCSS" alt="thhuang-repos-per-language" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thhuang&theme=nord_dark&exclude=HTML,CSS,SCSS" alt="thhuang-most-commit-language" />
+  </div>
+</p>
+
+<p align=center>
+  <div align=center>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thhuang&theme=dark&ring=e3bb18&fire=e3bb18&currStreakLabel=e3bb18&border=323232" alt="thhuang-streak-stats" />
     <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=thhuang&show_icons=true&count_private=true&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="thhuang-stats" /> -->
   </div>
 </p>
-
-<!-- <p align="center">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=thhuang&theme=gotham&hide_border=true&area=true" />
-</p> -->
 
 [ama]: https://github.com/thhuang/thhuang/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
 [amr-art]: https://github.com/thhuang/adaptive-mesh-refinement-art
