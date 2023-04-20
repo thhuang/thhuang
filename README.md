@@ -1,6 +1,7 @@
 ## Hello! I'm TH ✨
 
 - 🎓 MSCS at Northwestern University
+- ⚙️ Focusing on optimizing and parallelizing compiler development and research
 - 💻 Previously worked at [Cooby][cooby] and [17LIVE][17web] as a [Go][go]/[Python][python] backend engineer
 - 🤓 Enthusiastic about developing all kinds of fun software applications
 - 🎶 Listening to the best classical music with [NurMusik][nurmusik]
@@ -22,6 +23,8 @@
   [<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>][aws]
 
 </p>
+
+<!--
 
 ### 📚 Books and papers
 
@@ -56,6 +59,8 @@
   - [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
   - [Web Application Security: Exploitation and Countermeasures for Modern Web Applications](https://www.amazon.com/Web-Application-Security-Exploitation-Countermeasures/dp/1492053112)
   - [ZooKeeper: Wait-free coordination for Internet-scale systems](https://pdos.csail.mit.edu/6.824/papers/zookeeper.pdf)
+
+-->
 
 ### 📞 Contact me
 
