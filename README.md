@@ -2,7 +2,7 @@
 
 - 🎓 MSCS at Northwestern University
 - ⚙️ Focusing on optimizing and parallelizing compiler development and research
-- 💻 Previously worked at [Cooby][cooby] and [17LIVE][17web] as a backend engineer
+- 💻 Previously worked at [Cooby][cooby], [17LIVE][17web], and [Taiwan AI Labs][ailabs.tw] as a software/backend engineer
 - 🤓 Enthusiastic about developing all kinds of fun software applications
 - 🎶 Listening to the best classical music with [NurMusik][nurmusik]
 - 🎨 Creating cool profile images with [adaptive mesh refinement art][amr-art]
@@ -89,6 +89,7 @@
   </div>
 </p>
 
+[ailabs.tw]: https://ailabs.tw/
 [ama]: https://github.com/thhuang/thhuang/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
 [amr-art]: https://github.com/thhuang/adaptive-mesh-refinement-art
 [aws]: https://aws.amazon.com/
