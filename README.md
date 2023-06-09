@@ -2,7 +2,7 @@
 
 - 🎓 MSCS at Northwestern University
 - ⚙️ Focusing on optimizing and parallelizing compiler development and research
-- 💻 Previously worked at [Cooby][cooby] and [17LIVE][17web] as a [Go][go]/[Python][python] backend engineer
+- 💻 Previously worked at [Cooby][cooby] and [17LIVE][17web] as a backend engineer
 - 🤓 Enthusiastic about developing all kinds of fun software applications
 - 🎶 Listening to the best classical music with [NurMusik][nurmusik]
 - 🎨 Creating cool profile images with [adaptive mesh refinement art][amr-art]
@@ -15,11 +15,11 @@
   <!--- Ref: https://github.com/Ileriayo/markdown-badges -->
   [<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>][go]
   [<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>][c++]
+  [<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>][java]
   [<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>][python]
   [<img src="https://img.shields.io/badge/redis-%23DA2B20.svg?&style=for-the-badge&logo=redis&logoColor=white"/>][redis]
   [<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>][mongodb]
   [<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>][postgres]
-  [<img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>][flutter]
   [<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>][aws]
 
 </p>
@@ -97,6 +97,7 @@
 [flutter]: https://flutter.dev
 [github]: https://github.com/thhuang
 [go]: https://go.dev/
+[java]: https://www.java.com/
 [leetcode]: https://leetcode.com/thhuang
 [linkedin]: https://www.linkedin.com/in/tzuhsuanhuang
 [mongodb]: https://www.mongodb.com
