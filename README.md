@@ -1,9 +1,9 @@
 ## Hello! I'm TH ✨
 
+- 🙋 Actively seeking Full-Time Software Engineer opportunities
 - 🎓 MSCS at Northwestern University
-- ⚙️ Focusing on optimizing and parallelizing compiler development and research
-- 💻 Previously worked at [Cooby][cooby], [17LIVE][17web], and [Taiwan AI Labs][ailabs.tw] as a software/backend engineer
-- 🤓 Enthusiastic about developing all kinds of fun software applications
+- 💻 Previously worked at [Amazon][amazon], [Cooby][cooby], [17LIVE][17web], and [Taiwan AI Labs][ailabs.tw] as a software/backend engineer
+- 🤓 Enthusiastic about backend development
 - 🎶 Listening to the best classical music with [NurMusik][nurmusik]
 - 🎨 Creating cool profile images with [adaptive mesh refinement art][amr-art]
 - 🤜 Find me at [thhuang.dev][thhuang.dev]
@@ -93,6 +93,7 @@
 
 [ailabs.tw]: https://ailabs.tw/
 [ama]: https://github.com/thhuang/thhuang/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
+[amazon]: https://www.amazon.com
 [amr-art]: https://github.com/thhuang/adaptive-mesh-refinement-art
 [aws]: https://aws.amazon.com/
 [c++]: https://en.cppreference.com/w/
