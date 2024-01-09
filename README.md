@@ -1,6 +1,6 @@
 ## Hello! I'm TH ✨
 
-- 🙋 Actively seeking Full-Time Software Engineer opportunities
+- 🙋 Actively seeking <em><strong>Full-Time Software Engineer</strong></em> opportunities
 - 💻 Previously worked at [Amazon][amazon], [Cooby][cooby], [17LIVE][17web], and [Taiwan AI Labs][ailabs.tw] as a software/backend engineer
 - 🎓 [Computer Science at Northwestern University][cs@nu]
 - 🤓 Enthusiastic about backend development
