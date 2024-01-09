@@ -1,8 +1,8 @@
 ## Hello! I'm TH ✨
 
 - 🙋 Actively seeking Full-Time Software Engineer opportunities
-- 🎓 MSCS at Northwestern University
 - 💻 Previously worked at [Amazon][amazon], [Cooby][cooby], [17LIVE][17web], and [Taiwan AI Labs][ailabs.tw] as a software/backend engineer
+- 🎓 MSCS at Northwestern University
 - 🤓 Enthusiastic about backend development
 - 🎶 Listening to the best classical music with [NurMusik][nurmusik]
 - 🎨 Creating cool profile images with [adaptive mesh refinement art][amr-art]
