@@ -2,7 +2,7 @@
 
 - 🙋 Actively seeking Full-Time Software Engineer opportunities
 - 💻 Previously worked at [Amazon][amazon], [Cooby][cooby], [17LIVE][17web], and [Taiwan AI Labs][ailabs.tw] as a software/backend engineer
-- 🎓 MSCS at Northwestern University
+- 🎓 [Computer Science at Northwestern University][cs@nu]
 - 🤓 Enthusiastic about backend development
 - 🎶 Listening to the best classical music with [NurMusik][nurmusik]
 - 🎨 Creating cool profile images with [adaptive mesh refinement art][amr-art]
@@ -98,6 +98,7 @@
 [aws]: https://aws.amazon.com/
 [c++]: https://en.cppreference.com/w/
 [cooby]: https://cooby.co/
+[cs@nu]: https://www.mccormick.northwestern.edu/computer-science/
 [flutter]: https://flutter.dev
 [github]: https://github.com/thhuang
 [go]: https://go.dev/
