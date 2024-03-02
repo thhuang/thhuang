@@ -1,7 +1,7 @@
 ## Hello! I'm TH ✨
 
-- 🙋 Actively seeking <em><strong>Full-Time Software Engineer</strong></em> opportunities
-- 💻 Previously worked at [Amazon][amazon], [Cooby][cooby], [17LIVE][17web], and [Taiwan AI Labs][ailabs.tw] as a software/backend engineer
+- 🙋 Backend Engineer @ [Fetch][fetch]
+- 💻 Previously worked at [Amazon][amazon], [Cooby][cooby], [17LIVE][17web], and [Taiwan AI Labs][ailabs.tw] as a Software/Backend Engineer
 - 🎓 [Computer Science at Northwestern University][cs@nu]
 - 🤓 Enthusiastic about backend development
 - 🎶 Listening to the best classical music with [NurMusik][nurmusik]
@@ -99,6 +99,7 @@
 [c++]: https://en.cppreference.com/w/
 [cooby]: https://cooby.co/
 [cs@nu]: https://www.mccormick.northwestern.edu/computer-science/
+[fetch]: https://fetch.com/
 [flutter]: https://flutter.dev
 [github]: https://github.com/thhuang
 [go]: https://go.dev/
