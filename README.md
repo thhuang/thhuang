@@ -2,25 +2,23 @@
 
 - 🐕 Backend Engineer @ [Fetch][fetch]
 - 💻 Previously worked at [Amazon][amazon], [Cooby][cooby], [17LIVE][17web], and [Taiwan AI Labs][ailabs.tw] as a Software/Backend Engineer
-- 🎓 [Computer Science at Northwestern University][cs@nu]
+- 🎓 [Computer Science][cs@nu] at [Northwestern University][nu]
 - 🤓 Enthusiastic about backend development
-- 🎶 Listening to the best classical music with [NurMusik][nurmusik]
-- 🎨 Creating cool profile images with [adaptive mesh refinement art][amr-art]
-- 🤜 Find me at [thhuang.dev][thhuang.dev]
 
 ### 😎 Stuff I'm good at
 
 <p align="left">
 
   <!--- Ref: https://github.com/Ileriayo/markdown-badges -->
-  [<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>][go]
-  [<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>][c++]
-  [<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>][java]
-  [<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>][python]
-  [<img src="https://img.shields.io/badge/redis-%23DA2B20.svg?&style=for-the-badge&logo=redis&logoColor=white"/>][redis]
-  [<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>][mongodb]
-  [<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>][postgres]
-  [<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>][aws]
+  [<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" alt="go"/>][go]
+  [<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/>][c++]
+  [<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python"/>][python]
+  [<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="kafka">][kafka]
+  [<img src="https://img.shields.io/badge/redis-%23DA2B20.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis"/>][redis]
+  [<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>][mongodb]
+  [<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="dynamodb"/>][dynamodb]
+  [<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres"/>][postgres]
+  [<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>][aws]
 
 </p>
 
@@ -62,12 +60,14 @@
 
 -->
 
-### 📞 Contact me
+### 🤜 Find me at
 
 <p align = "left">
 
-  [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />][github]
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+  [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>][github]
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>][linkedin]
+  [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#D16C06" alt="leetcode"/>][leetcode]
+  [<img src="https://img.shields.io/badge/personal%20-4E2A84.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" alt="personal"/>][thhuang.dev]
 
 </p>
 
@@ -94,20 +94,21 @@
 [ailabs.tw]: https://ailabs.tw/
 [ama]: https://github.com/thhuang/thhuang/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
 [amazon]: https://www.amazon.com
-[amr-art]: https://github.com/thhuang/adaptive-mesh-refinement-art
 [aws]: https://aws.amazon.com/
 [c++]: https://en.cppreference.com/w/
 [cooby]: https://cooby.co/
 [cs@nu]: https://www.mccormick.northwestern.edu/computer-science/
+[dynamodb]: https://aws.amazon.com/dynamodb/
 [fetch]: https://fetch.com/
 [flutter]: https://flutter.dev
 [github]: https://github.com/thhuang
 [go]: https://go.dev/
 [java]: https://www.java.com/
+[kafka]: https://kafka.apache.org/
 [leetcode]: https://leetcode.com/thhuang
 [linkedin]: https://www.linkedin.com/in/tzuhsuanhuang
 [mongodb]: https://www.mongodb.com
-[nurmusik]: https://apps.apple.com/app/id1517280284
+[nu]: https://www.northwestern.edu/
 [postgres]: https://www.postgresql.org/
 [python]: https://www.python.org
 [redis]: https://redis.io
