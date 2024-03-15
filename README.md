@@ -3,7 +3,7 @@
 - 🐕 Backend Engineer @ [Fetch][fetch]
 - 💻 Previously worked at [Amazon][amazon], [Cooby][cooby], [17LIVE][17web], and [Taiwan AI Labs][ailabs.tw] as a Software/Backend Engineer
 - 🎓 [Computer Science][cs@nu] at [Northwestern University][nu]
-- 🤓 Enthusiastic about backend development
+- 🤓 Enthusiastic about backend development, classical music, and chocolate 🍫
 
 ### 😎 Stuff I'm good at
 
