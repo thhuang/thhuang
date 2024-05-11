@@ -10,15 +10,17 @@
 <p align="left">
 
   <!--- Ref: https://github.com/Ileriayo/markdown-badges -->
-  [<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" alt="go"/>][go]
-  [<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/>][c++]
-  [<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python"/>][python]
-  [<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="kafka">][kafka]
-  [<img src="https://img.shields.io/badge/redis-%23DA2B20.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis"/>][redis]
-  [<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>][mongodb]
-  [<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="dynamodb"/>][dynamodb]
-  [<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres"/>][postgres]
-  [<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>][aws]
+
+[<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" alt="go"/>][go]
+[<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/>][c++]
+[<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python"/>][python]
+[<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="kafka">][kafka]
+[<img src="https://img.shields.io/badge/redis-%23DA2B20.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis"/>][redis]
+[<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>][mongodb]
+[<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="dynamodb"/>][dynamodb]
+[<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres"/>][postgres]
+[<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>][aws]
+[<img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana"/>][grafana]
 
 </p>
 
@@ -64,10 +66,10 @@
 
 <p align = "left">
 
-  [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>][github]
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>][linkedin]
-  [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#D16C06" alt="leetcode"/>][leetcode]
-  [<img src="https://img.shields.io/badge/personal%20-4E2A84.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" alt="personal"/>][thhuang.dev]
+[<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>][github]
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>][linkedin]
+[<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#D16C06" alt="leetcode"/>][leetcode]
+[<img src="https://img.shields.io/badge/personal%20-4E2A84.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" alt="personal"/>][thhuang.dev]
 
 </p>
 
@@ -103,6 +105,7 @@
 [flutter]: https://flutter.dev
 [github]: https://github.com/thhuang
 [go]: https://go.dev/
+[grafana]: https://grafana.com/
 [java]: https://www.java.com/
 [kafka]: https://kafka.apache.org/
 [leetcode]: https://leetcode.com/thhuang
