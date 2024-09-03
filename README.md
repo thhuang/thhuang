@@ -1,7 +1,7 @@
 ## Hello! I'm TH ✨
 
-- 🐕 Backend Engineer at [Fetch][fetch]
-- 💻 Previously worked at [Amazon][amazon], [Cooby][cooby], [17LIVE][17web], and [Taiwan AI Labs][ailabs.tw] as a Software/Backend Engineer
+- 💻 Software Development Engineer at [Amazon][amazon]
+- 🙌 Previously worked at [Fetch][fetch], [Cooby][cooby], [17LIVE][17web], and [Taiwan AI Labs][ailabs.tw] as a Software/Backend Engineer
 - 🎓 [Computer Science][cs@nu] at [Northwestern University][nu]
 - 🤓 Enthusiastic about backend development, classical music, and chocolate 🍫
 
