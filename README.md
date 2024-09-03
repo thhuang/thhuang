@@ -68,7 +68,6 @@
 
 [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>][github]
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>][linkedin]
-[<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#D16C06" alt="leetcode"/>][leetcode]
 [<img src="https://img.shields.io/badge/personal%20-4E2A84.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" alt="personal"/>][thhuang.dev]
 
 </p>
