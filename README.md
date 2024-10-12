@@ -2,7 +2,7 @@
 
 - 💻 Software Engineer at ...
 - 🙌 Previously worked at [Amazon][amazon], [Fetch][fetch], [Cooby][cooby], [17LIVE][17web], and [Taiwan AI Labs][ailabs.tw]
-- 🎓 [Computer Science][cs@nu] at [Northwestern University][nu] and [Engineering](eng@ntu) at [National Taiwan University][ntu]
+- 🎓 [Computer Science][cs@nu] at [Northwestern University][nu] and [Engineering][eng@ntu] at [National Taiwan University][ntu]
 
 ### 😎 Stuff I'm good at
 
