@@ -1,9 +1,8 @@
 ## Hello! I'm TH ✨
 
-- 💻 Software Development Engineer at [Amazon][amazon]
-- 🙌 Previously worked at [Fetch][fetch], [Cooby][cooby], [17LIVE][17web], and [Taiwan AI Labs][ailabs.tw] as a Software/Backend Engineer
-- 🎓 [Computer Science][cs@nu] at [Northwestern University][nu]
-- 🤓 Enthusiastic about backend development, classical music, and chocolate 🍫
+- 💻 Software Engineer at ...
+- 🙌 Previously worked at [Amazon][amazon], [Fetch][fetch], [Cooby][cooby], [17LIVE][17web], and [Taiwan AI Labs][ailabs.tw]
+- 🎓 [Computer Science][cs@nu] at [Northwestern University][nu] and [Engineering](eng@ntu) at [National Taiwan University][ntu]
 
 ### 😎 Stuff I'm good at
 
@@ -100,6 +99,7 @@
 [cooby]: https://cooby.co/
 [cs@nu]: https://www.mccormick.northwestern.edu/computer-science/
 [dynamodb]: https://aws.amazon.com/dynamodb/
+[eng@ntu]: https://www.eng.ntu.edu.tw/EN/index.aspx
 [fetch]: https://fetch.com/
 [flutter]: https://flutter.dev
 [github]: https://github.com/thhuang
@@ -110,6 +110,7 @@
 [leetcode]: https://leetcode.com/thhuang
 [linkedin]: https://www.linkedin.com/in/tzuhsuanhuang
 [mongodb]: https://www.mongodb.com
+[ntu]: https://www.ntu.edu.tw/english/
 [nu]: https://www.northwestern.edu/
 [postgres]: https://www.postgresql.org/
 [python]: https://www.python.org
