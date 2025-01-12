@@ -1,6 +1,6 @@
 ## Hello! I'm TH ✨
 
-- 💻 Software Engineer at ...
+- 💻 Software Engineer at [Meta](meta)
 - 🙌 Previously worked at [Amazon][amazon], [Fetch][fetch], [Cooby][cooby], [17LIVE][17web], and [Taiwan AI Labs][ailabs.tw]
 - 🎓 [Computer Science][cs@nu] at [Northwestern University][nu] and [Engineering][eng@ntu] at [National Taiwan University][ntu]
 
@@ -109,6 +109,7 @@
 [kafka]: https://kafka.apache.org/
 [leetcode]: https://leetcode.com/thhuang
 [linkedin]: https://www.linkedin.com/in/tzuhsuanhuang
+[meta]: https://www.meta.com/
 [mongodb]: https://www.mongodb.com
 [ntu]: https://www.ntu.edu.tw/english/
 [nu]: https://www.northwestern.edu/
