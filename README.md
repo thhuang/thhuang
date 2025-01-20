@@ -10,16 +10,16 @@
 
 <!--- Ref: https://github.com/Ileriayo/markdown-badges -->
 
-[<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" alt="go"/>][go]
-[<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/>][c++]
 [<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python"/>][python]
+[<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust"/>][rust]
+[<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/>][c++]
+[<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" alt="go"/>][go]
 [<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="kafka">][kafka]
 [<img src="https://img.shields.io/badge/redis-%23DA2B20.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis"/>][redis]
 [<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>][mongodb]
 [<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="dynamodb"/>][dynamodb]
 [<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres"/>][postgres]
 [<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>][aws]
-[<img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana"/>][grafana]
 
 </p>
 
@@ -75,6 +75,7 @@
 
 ![](https://komarev.com/ghpvc/?username=thhuang&label=Views&style=for-the-badge)
 
+<!--
 <p align=center>
   <div align=center>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thhuang&theme=nord_dark&exclude=HTML,CSS,SCSS" alt="thhuang-repos-per-language" />
@@ -82,7 +83,7 @@
   </div>
 </p>
 
-<!--
+
 <p align=center>
   <div align=center>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thhuang&theme=dark&ring=e3bb18&fire=e3bb18&currStreakLabel=e3bb18&border=323232" alt="thhuang-streak-stats" />
@@ -116,6 +117,7 @@
 [postgres]: https://www.postgresql.org/
 [python]: https://www.python.org
 [redis]: https://redis.io
+[rust]: https://www.rust-lang.org/
 [thhuang.dev]: https://thhuang.dev
 [17android]: https://play.google.com/store/apps/details?id=com.machipopo.media17
 [17ios]: https://apps.apple.com/app/id988259048
